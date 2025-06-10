@@ -1,1 +1,1 @@
-Welcome to the winapps wiki!
+Welcome to the WinApps wiki!
